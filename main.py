@@ -66,3 +66,5 @@ if is_done == True:
 else:
 	print("You died!")
 	print(f"The word was {chosen_word}")
+	
+#this comment is a test
